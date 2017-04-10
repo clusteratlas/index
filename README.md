@@ -13,6 +13,7 @@
 
 [![npm](https://img.shields.io/badge/npm-faye-red.svg?style=flat-square)](https://www.npmjs.com/package/faye)
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
+
 ---
 
 ## Faye
@@ -30,4 +31,5 @@
 
 [![npm](https://img.shields.io/badge/npm-faye-red.svg?style=flat-square)](https://www.npmjs.com/package/faye)
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
+
 ---
