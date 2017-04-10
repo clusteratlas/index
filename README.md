@@ -1,5 +1,9 @@
 # An open list of awesome things we use.
 
+- Always open for PR's for contributions :)
+
+---
+
 ## Faye
 
 - Features
