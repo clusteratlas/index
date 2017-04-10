@@ -1,6 +1,12 @@
-## Faye 
+For
 
-> 
+## Faye
+
+- Features
+  - Simple pub/sub messaging
+  - Sending of string / buffer
+- Notes
+  - Biggest advantage over socket.io is its simplicity, flexibility & overall the whole project is notably well-maintained.
 
 ---
 [![website](https://img.shields.io/badge/website-faye.jcoglan.com-blue.svg?style=flat-square)](https://faye.jcoglan.com/)
