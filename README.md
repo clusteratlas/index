@@ -1,3 +1,5 @@
+# An open list of awesome things we use.
+
 ## Faye
 
 - Features
