@@ -1,4 +1,4 @@
-# An open list of awesome things we use.
+# An open list of awesome things to date
 
 - Always open for PR's for contributions :)
 
