@@ -21,6 +21,11 @@
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
 
 ---
+> https://github.com/mscdex/ssh2
+> https://www.npmjs.com/package/node-forge
+> https://github.com/pierrec/js-xxhash
+> https://github.com/Mostafa-Samir/zip-local
+
 > https://www.npmjs.com/package/nodejs-fs-utils
 > https://www.npmjs.com/package/pretty-bytes
 > https://www.npmjs.com/package/uuid-random
@@ -57,8 +62,10 @@ azure storage:
 > https://www.npmjs.com/package/azure-storage
 > http://azure.github.io/azure-storage-node/
 
+
 > https://github.com/primus/ejson
 > https://github.com/hubspot/vex
 > https://github.com/dmauro/Keypress
 > https://jquery.com/download/
 > https://github.com/jriecken/sat-js
+> https://github.com/jcubic/jquery.terminal
