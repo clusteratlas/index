@@ -66,6 +66,7 @@ azure storage:
 - https://github.com/primus/ejson
 - https://github.com/hubspot/vex
 - https://github.com/dmauro/Keypress
+- http://hammerjs.github.io/
 - https://jquery.com/download/
 - https://github.com/jriecken/sat-js
 - https://github.com/jcubic/jquery.terminal
