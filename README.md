@@ -21,38 +21,44 @@
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
 
 ---
-https://www.npmjs.com/package/nodejs-fs-utils
-https://www.npmjs.com/package/pretty-bytes
-https://www.npmjs.com/package/uuid-random
-https://www.npmjs.com/package/chalk
-https://www.npmjs.com/package/eventemitter3
+> https://www.npmjs.com/package/nodejs-fs-utils
+> https://www.npmjs.com/package/pretty-bytes
+> https://www.npmjs.com/package/uuid-random
+> https://www.npmjs.com/package/chalk
+> https://www.npmjs.com/package/eventemitter3
 
-https://www.npmjs.com/package/xo
-https://www.npmjs.com/package/ava
+> https://www.npmjs.com/package/xo
+> https://www.npmjs.com/package/ava
 
-https://www.npmjs.com/package/faye-websocket
-https://www.npmjs.com/package/clipboardy
-https://www.npmjs.com/package/globby
-https://www.npmjs.com/package/hasha
-https://www.npmjs.com/package/lodash - https://lodash.com/docs/
-https://www.npmjs.com/package/chokidar
-https://www.npmjs.com/package/yargs - http://yargs.js.org/docs/
-https://www.npmjs.com/package/async - http://caolan.github.io/async/docs.html
+> https://www.npmjs.com/package/faye-websocket
+> https://www.npmjs.com/package/clipboardy
+> https://www.npmjs.com/package/globby
+> https://www.npmjs.com/package/hasha
+> https://www.npmjs.com/package/lodash - https://lodash.com/docs/
+> https://www.npmjs.com/package/chokidar
+> https://www.npmjs.com/package/yargs - http://yargs.js.org/docs/
+> https://www.npmjs.com/package/async - http://caolan.github.io/async/docs.html
 
-https://www.npmjs.com/package/gulp - http://gulpjs.com/
+> https://www.npmjs.com/package/gulp - http://gulpjs.com/
 
 ```sh
 npm install gulp-cli -g
 npm install gulp -D
 ```
 
-https://github.com/webtorrent/webtorrent
+> https://github.com/webtorrent/webtorrent
+> https://github.com/feross/p2p-graph
 
 mongodb:
-https://www.npmjs.com/package/mongodb
-http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud/
+> https://www.npmjs.com/package/mongodb
+> http://mongodb.github.io/node-mongodb-native/2.2/tutorials/crud/
 
 azure storage:
-https://www.npmjs.com/package/azure-storage
-http://azure.github.io/azure-storage-node/
+> https://www.npmjs.com/package/azure-storage
+> http://azure.github.io/azure-storage-node/
 
+> https://github.com/primus/ejson
+> https://github.com/hubspot/vex
+> https://github.com/dmauro/Keypress
+> https://jquery.com/download/
+> https://github.com/jriecken/sat-js
