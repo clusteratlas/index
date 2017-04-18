@@ -78,3 +78,7 @@ azure storage:
 Free SSL:
 - https://www.sslforfree.com/
 - https://www.freessl.com/freessl/good-karma/
+
+- https://github.com/Valve/fingerprintjs2
+- https://github.com/dmester/jdenticon
+- https://github.com/lafeber/world-flags-sprite
