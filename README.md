@@ -75,3 +75,6 @@ azure storage:
 - https://github.com/janhuenermann/neurojs
 - https://github.com/sindresorhus/multimatch
 
+Free SSL:
+- https://www.sslforfree.com/
+- https://www.freessl.com/freessl/good-karma/
