@@ -69,3 +69,8 @@ azure storage:
 > https://jquery.com/download/
 > https://github.com/jriecken/sat-js
 > https://github.com/jcubic/jquery.terminal
+
+> https://github.com/lpinca/stopcock
+> https://github.com/janhuenermann/neurojs
+> https://github.com/sindresorhus/multimatch
+
