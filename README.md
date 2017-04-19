@@ -82,3 +82,7 @@ Free SSL:
 - https://github.com/Valve/fingerprintjs2
 - https://github.com/dmester/jdenticon
 - https://github.com/lafeber/world-flags-sprite
+
+- https://www.npmjs.com/package/highland
+> https://gist.github.com/kharandziuk/e823707bf71fba9a4cdf944216773f58
+> http://blog.vullum.io/javascript-flow-callback-hell-vs-async-vs-highland/
