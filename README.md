@@ -11,11 +11,15 @@
     - [Socket.IO](#socketio)
     - [Faye & Faye-Websocket](#faye--faye-websocket)
     - UWS, Engine.io, etc.
+  - [Other Libraries](#other-libraries)
 - Miscellaneous
   - [Learning Javascript](#learning-javascript)
   - [Recommended Reads](#recommended-reads)
   - [Publishing Games](#publishing-games)
+  - [Monetizing Games](#monetizing-games)
   - [Licensing Games](#licensing-games)
+  - [Recommended Blogs](#recommended-blogs)
+  - [Recommended Subreddits](#recommended-subreddits)
 ---
 
 ## Basic Concepts
@@ -121,6 +125,11 @@ Things that matter:
 - https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_promotion
 - https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_monetization
 
+## Monetizing Games
+
+- [Why Indie Game Devs Suck at Marketing](https://indiewatch.net/2016/04/26/why-indie-game-developers-suck-at-marketing/)
+- [59 Ways To Monetize Your Indie Game](http://gdu.io/blog/monetization/)
+
 ## Licensing Games
 
 - http://www.html5gamedevs.com/topic/772-licensing-vs-rev-share-vs-something-else/
@@ -133,6 +142,23 @@ TrueValhalla:
 > You can (and should) set different prices for different publishers. Charge large companies more, especially if they're based in Europe. A quick Google search can give you with an idea of how well financed a company is, and where they are situated. Use this information to determine a suitable value for your work. Negotiating a fee requires good judgement. With some experimentation, you'll be able to determine a publisher's range, and charge accordingly.
 
 >HTML5 games are currently worth a lot of money - keep it that way by maintaining high prices for quality content. Sometimes it is worth throwing away a sale in order to protect future business. I could sell my games for $150-$300 per non-exclusive license to some publishers, but for the sake of maintaining the value of HTML5 games I do not. Only accept a fair price, and do not settle for less than what your content is worth.
+
+## Recommended Blogs
+
+- http://gdu.io/blog/
+- https://www.truevalhalla.com/blog/
+
+## Recommended Subreddits
+
+- https://www.reddit.com/r/gamedev/
+- https://www.reddit.com/r/gameDevClassifieds/
+- https://www.reddit.com/r/INAT/
+- https://www.reddit.com/r/gamedevscreens/
+- https://www.reddit.com/r/gamedesign/
+- https://www.reddit.com/r/devblogs/
+- https://www.reddit.com/r/iogames/
+- https://www.reddit.com/r/IndieDev/
+- https://www.reddit.com/r/IndieGaming/
 
 ---
 
