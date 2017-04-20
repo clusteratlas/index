@@ -166,6 +166,18 @@ TrueValhalla:
 - Spritesheet Packers
   - https://github.com/amakaseev/sprite-sheet-packer/releases
   - https://www.codeandweb.com/texturepacker
+- Editors
+  - https://notepad-plus-plus.org/download/
+  - https://atom.io/
+  - https://www.sublimetext.com/
+  - https://www.jetbrains.com/webstorm/
+- Creating Mobile Apps
+  - https://cordova.apache.org/
+  - https://crosswalk-project.org/
+  - http://phonegap.com/
+- Version Control
+  - https://git-scm.com/downloads
+  - https://www.sourcetreeapp.com/
 - Terminals / CLI's
   - https://hyper.is/
   - http://cmder.net/
