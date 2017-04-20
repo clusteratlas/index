@@ -48,8 +48,8 @@ Things that matter:
   
 [![website](https://img.shields.io/badge/website-socket.io-blue.svg?style=flat-square)](https://socket.io/)
 
-[![link](https://img.shields.io/badge/link-server api-blue.svg?style=flat-square)](https://github.com/socketio/socket.io/blob/master/docs/API.md)
-[![link](https://img.shields.io/badge/link-client api-blue.svg?style=flat-square)](https://github.com/socketio/socket.io-client/blob/master/docs/API.md)
+[![API](https://img.shields.io/badge/API-Server-blue.svg?style=flat-square)](https://github.com/socketio/socket.io/blob/master/docs/API.md)
+[![API](https://img.shields.io/badge/API-Client-blue.svg?style=flat-square)](https://github.com/socketio/socket.io-client/blob/master/docs/API.md)
 
 https://www.npmjs.com/package/
 https://www.npmjs.com/package/
