@@ -4,6 +4,7 @@
 
 ## Table Of Contents
 
+- [Basic Concepts](#basic-concepts)
 - Networking
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
@@ -14,6 +15,33 @@
   - [Learning Javascript](#learning-javascript)
   - [Recommended Reads](#recommended-reads)
 ---
+
+## Basic Concepts
+
+- Game Genres
+  - https://en.wikipedia.org/wiki/List_of_video_game_genres
+- Game Input
+  - Keyboard & Mouse
+  - Screen Touch Gestures, like taps, swipes, pinch, shake
+  - Gamepads & Controllers
+  - Audio(from Microphone) & Video(from Camera)
+- Game Output
+  - Screen size, ratio & orientation (portrait / landscape)
+  - Resolution of assets depending on the Pixels Per Inch of the device
+  - Frames Per Second
+  - WebGL / Canvas
+  - Music, Sound Effects & Vibrations
+- Deployment Platforms
+  - Desktop (Windows, Mac, Linux)
+  - Smartphones, and Tablets (Android, iOS, Windows Phone, etc.)
+  - Desktop Browsers (Chrome, Firefox, Safari, Opera, Internet Explorer & Edge)
+  - Consoles, such as Xbox One, Xbox 360, PS3, PS4, PS Vita, Wii U, New 3DS, etc.
+- Game Engines
+  - https://en.wikipedia.org/wiki/Game_engine
+- Web Hosting, Domain Names & Name Servers
+  - https://en.wikipedia.org/wiki/Web_hosting_service
+- CDN (Cloud Delivery Networks)
+  - https://developer.mozilla.org/en-US/docs/Glossary/CDN
 
 ## Networking Basics
 
