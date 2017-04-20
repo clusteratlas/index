@@ -12,14 +12,14 @@
     - [Faye & Faye-Websocket](#faye--faye-websocket)
     - UWS, Engine.io, etc.
   - [Other Libraries](#other-libraries)
-- Miscellaneous
-  - [Learning Javascript](#learning-javascript)
-  - [Recommended Reads](#recommended-reads)
-  - [Publishing Games](#publishing-games)
-  - [Monetizing Games](#monetizing-games)
-  - [Licensing Games](#licensing-games)
-  - [Recommended Blogs](#recommended-blogs)
-  - [Recommended Subreddits](#recommended-subreddits)
+- [Learning Javascript](#learning-javascript)
+- [Recommended Reads](#recommended-reads)
+- [Publishing Games](#publishing-games)
+- [Monetizing Games](#monetizing-games)
+- [Licensing Games](#licensing-games)
+- [Recommended Blogs](#recommended-blogs)
+- [Recommended Subreddits](#recommended-subreddits)
+- [Developer Freebies!](#developer-freebies)
 ---
 
 ## Basic Concepts
@@ -160,7 +160,24 @@ TrueValhalla:
 - https://www.reddit.com/r/IndieDev/
 - https://www.reddit.com/r/IndieGaming/
 
+## Developer Freebies
+
+- Microsoft Azure w/ $200 Free, for 30 days
+  - https://azure.microsoft.com/en-us/free/
+- Google Cloud Platform w/ $300 Free, for 1 year
+  - https://cloud.google.com/free/
+- Amazon Web Services (AWS) Free Tier, for 1 year
+  - https://aws.amazon.com/free/
+- Free SSL
+  - https://www.sslforfree.com/
+  - https://www.freessl.com/freessl/good-karma/
+- Free Game Assets
+  - http://www.kenney.nl/
+  - https://www.gamedeveloperstudio.com/
+
 ---
+
+## Licensing Games
 
 - https://nodejs.org/api/
 - https://github.com/mscdex/ssh2
