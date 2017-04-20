@@ -8,12 +8,11 @@
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
     - [Socket.IO](#socketio)
-    - Faye & Faye-Websocket
+    - [Faye & Faye-Websocket](#faye--faye-websocket)
     - UWS, Engine.io, etc.
 - Miscellaneous
-  - Learning Javascript
+  - [Learning Javascript](#learning-javascript)
   - [Recommended Reads](#recommended-reads)
-
 ---
 
 ## Networking Basics
@@ -39,7 +38,7 @@ Things that matter:
 
 ## Networking Libraries
 
-### SocketIO
+### Socket.IO
 - Features:
   - Simple pub/sub messaging
   - Automatic reconnection
@@ -73,6 +72,13 @@ Things that matter:
 
 ---
 
+## Learning Javascript
+
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+- https://github.com/getify/You-Dont-Know-JS
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
 
 ## Recommended Reads
 
