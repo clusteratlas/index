@@ -19,6 +19,7 @@
 - [Licensing Games](#licensing-games)
 - [Recommended Blogs](#recommended-blogs)
 - [Recommended Subreddits](#recommended-subreddits)
+- [Developer Tools](#developer-tools)
 - [Developer Freebies!](#developer-freebies)
 ---
 
@@ -159,6 +160,19 @@ TrueValhalla:
 - https://www.reddit.com/r/iogames/
 - https://www.reddit.com/r/IndieDev/
 - https://www.reddit.com/r/IndieGaming/
+    
+## Developer Tools
+
+- Spritesheet Packers
+  - https://github.com/amakaseev/sprite-sheet-packer/releases
+  - https://www.codeandweb.com/texturepacker
+- Terminals / CLI's
+  - https://hyper.is/
+  - http://cmder.net/
+- FTP / SFTP
+  - https://winscp.net/eng/download.php
+- SSH
+  - http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 ## Developer Freebies
 
@@ -172,8 +186,13 @@ TrueValhalla:
   - https://www.sslforfree.com/
   - https://www.freessl.com/freessl/good-karma/
 - Free Game Assets
-  - http://www.kenney.nl/
-  - https://www.gamedeveloperstudio.com/
+  - GFX / GUI / Characters
+    - http://www.kenney.nl/
+    - https://www.gamedeveloperstudio.com/
+  - SFX / Music
+    - https://soundcloud.com/parijat-mishra/sets/original-instrumentals
+
+
 
 ---
 
