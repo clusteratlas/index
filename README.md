@@ -203,6 +203,8 @@ TrueValhalla:
     - https://www.gamedeveloperstudio.com/
   - SFX / Music
     - https://soundcloud.com/parijat-mishra/sets/original-instrumentals
+    - http://www.sonniss.com/gameaudiogdc2017/
+    - http://www.youtube.com/c/ourmusicbox
 
 
 
