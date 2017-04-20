@@ -34,14 +34,16 @@ Things that matter:
   - https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
   - https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
 
-## SocketIO
+## Networking Libraries
+
+### SocketIO
 - Features:
   - Simple pub/sub messaging
   - Automatic reconnection
 - Notes:
   - Automatic reconnection is quite sketchy especially on the server-side of things.
 
-## Faye & Faye-Websocket
+### Faye & Faye-Websocket
 
 - Features
   - Simple pub/sub messaging
