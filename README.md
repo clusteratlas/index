@@ -14,6 +14,8 @@
 - Miscellaneous
   - [Learning Javascript](#learning-javascript)
   - [Recommended Reads](#recommended-reads)
+  - [Publishing Games](#publishing-games)
+  - [Licensing Games](#licensing-games)
 ---
 
 ## Basic Concepts
@@ -111,6 +113,26 @@ Things that matter:
 ## Recommended Reads
 
 - https://www.reddit.com/r/gamedev/comments/66bwxe/7_of_my_worst_gamekilling_assumptions_and_what/
+
+## Publishing Games
+
+- https://developer.mozilla.org/en-US/docs/Games/Publishing_games
+- https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_distribution
+- https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_promotion
+- https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_monetization
+
+## Licensing Games
+
+- http://www.html5gamedevs.com/topic/772-licensing-vs-rev-share-vs-something-else/
+- http://www.html5gamedevs.com/topic/11835-want-to-know-about-non-exclusive-license-of-html5-game/
+
+TrueValhalla: 
+
+> When a publisher expresses an interest in any of your games you'll need to determine a suitable price to charge for licensing. The minimum fee I currently accept for a non-exclusive license is $400, the most I ever charged was $950, and the average is approximately $550. While I don't offer exclusive licenses to publishers, I would currently charge between $4000-$5000 for one. Rental fees are normally non-negotiable, but $50-$75 per month is an average rate.
+
+> You can (and should) set different prices for different publishers. Charge large companies more, especially if they're based in Europe. A quick Google search can give you with an idea of how well financed a company is, and where they are situated. Use this information to determine a suitable value for your work. Negotiating a fee requires good judgement. With some experimentation, you'll be able to determine a publisher's range, and charge accordingly.
+
+>HTML5 games are currently worth a lot of money - keep it that way by maintaining high prices for quality content. Sometimes it is worth throwing away a sale in order to protect future business. I could sell my games for $150-$300 per non-exclusive license to some publishers, but for the sake of maintaining the value of HTML5 games I do not. Only accept a fair price, and do not settle for less than what your content is worth.
 
 ---
 
