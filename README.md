@@ -10,6 +10,9 @@
     - [Socket.IO](#socketio)
     - Faye & Faye-Websocket
     - UWS, Engine.io, etc.
+- Miscellaneous
+  - Learning Javascript
+  - [Recommended Reads](#recommended-reads)
 
 ---
 
@@ -42,6 +45,17 @@ Things that matter:
   - Automatic reconnection
 - Notes:
   - Automatic reconnection is quite sketchy especially on the server-side of things.
+  
+[![website](https://img.shields.io/badge/website-socket.io-blue.svg?style=flat-square)](https://socket.io/)
+
+[![link](https://img.shields.io/badge/link-server api-blue.svg?style=flat-square)](https://github.com/socketio/socket.io/blob/master/docs/API.md)
+[![link](https://img.shields.io/badge/link-client api-blue.svg?style=flat-square)](https://github.com/socketio/socket.io-client/blob/master/docs/API.md)
+
+https://www.npmjs.com/package/
+https://www.npmjs.com/package/
+
+[![npm](https://img.shields.io/badge/npm-socket.io-red.svg?style=flat-square)](https://www.npmjs.com/package/socket.io)
+[![npm](https://img.shields.io/badge/npm-socket.io--client-red.svg?style=flat-square)](https://www.npmjs.com/package/socket.io-client)
 
 ### Faye & Faye-Websocket
 
@@ -61,6 +75,14 @@ Things that matter:
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
 
 ---
+
+
+## Recommended Reads
+
+- https://www.reddit.com/r/gamedev/comments/66bwxe/7_of_my_worst_gamekilling_assumptions_and_what/
+
+---
+
 - https://nodejs.org/api/
 - https://github.com/mscdex/ssh2
 - https://www.npmjs.com/package/node-forge
