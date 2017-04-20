@@ -50,6 +50,21 @@
 - CDN (Cloud Delivery Networks)
   - https://developer.mozilla.org/en-US/docs/Glossary/CDN
 
+## HTML5 Game Engines / Frameworks
+
+- Phaser.IO
+  - http://phaser.io/
+- PIXI.js
+  - http://pixijs.com/
+- Babylon.js
+  - http://www.babylonjs.com/
+- Panda.js
+  - http://www.pandajs.net/
+- Melon.js
+  - http://www.melonjs.org/
+- Kiwi.js
+  - http://www.kiwijs.org/
+
 ## Networking Basics
 
 Things that matter: 
