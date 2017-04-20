@@ -7,22 +7,48 @@
 - Networking
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
-    - [Socket.IO](#socket.io)
+    - [Socket.IO](#socketio)
     - Faye & Faye-Websocket
-    - UWS
+    - UWS, Engine.io, etc.
 
 ---
 
-## Socket.IO
+## Networking Basics
 
+Things that matter: 
+- Knowing difference between tcp/udp
+- Lightweight vs Feature-rich libraries
+- Platform compatibility (ie, can the nodejs server handle connections from browser-based & native-code clients?)
+- Being able to do the math for the bandwidth requirements (ie: how many mbps/player can the server handle)
+- Being able to do the same math when scaling the server (when using load balancers and multiple server instances and such)
+- Being able to use dns-level traffic managers to decrease latency for players in various regions
+- Knowing which game data can be fired-and-forget across udp, and which of those should really go over tcp
+- Game state restoration on player's side in reconnection
+- Implementations really vary by genre, be it arcade/turn-based/first person shooter/mmorpg's/etc
+- Furthermore, I believe that doing some self-education on modern cloud technologies (ie Azure/AWS/Google Cloud Platform) would expose you to higher-level scaling & handling of game networking problems from a server-administrator point of view (instead of an indie game developer pov)
+- Related reads:
+  - http://gafferongames.com/networking-for-game-programmers/
+  - https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+  - https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/
+  - https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
+  - https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
+  - https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
 
-## Faye
+## SocketIO
+- Features:
+  - Simple pub/sub messaging
+  - Automatic reconnection
+- Notes:
+  - Automatic reconnection is quite sketchy especially on the server-side of things.
+
+## Faye & Faye-Websocket
 
 - Features
   - Simple pub/sub messaging
   - Sending of string / buffer
 - Notes
   - Biggest advantage over socket.io is its simplicity, flexibility & overall the whole project is notably well-maintained.
+  - However automatic reconnection isn't built-in on this one.
 
 [![website](https://img.shields.io/badge/website-faye.jcoglan.com-blue.svg?style=flat-square)](https://faye.jcoglan.com/)
 
