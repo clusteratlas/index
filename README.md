@@ -1,4 +1,4 @@
-## An open list of everything nice, curated for HTML Indie Game Developers.
+## An open list of everything nice, curated for HTML5 Indie Game Developers.
 
 > Always open for PR's for contributions :)
 
