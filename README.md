@@ -6,6 +6,7 @@
 
 - [Basic Concepts](#basic-concepts)
 - [HTML5 Game Engines / Frameworks](#html5-game-engines--frameworks)
+- [Physics Engines](#physics-engines)
 - Networking
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
@@ -70,6 +71,17 @@
 - Kiwi.js
   - http://www.kiwijs.org/
   - http://www.kiwijs.org/examples/
+
+## Physics Engines
+
+- Matter.js
+  - http://brm.io/matter-js/
+  - http://brm.io/matter-js/demo/
+- Box2d.js
+  - https://github.com/kripken/box2d.js/
+  - http://kripken.github.io/box2d.js/demo/webgl/box2d.html
+- SAT.js
+  - https://github.com/jriecken/sat-js
 
 ## Networking Basics
 
