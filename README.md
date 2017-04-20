@@ -1,8 +1,20 @@
-# An open list of awesome things to date
+# An open index for HTML5 indie game developers.
 
 - Always open for PR's for contributions :)
 
+## Table Of Contents
+
+- Networking
+  - [Networking Basics](#networking-basics)
+  - [Networking Libraries](#networking-libraries)
+    - [Socket.IO](#socket.io)
+    - Faye & Faye-Websocket
+    - UWS
+
 ---
+
+## Socket.IO
+
 
 ## Faye
 
