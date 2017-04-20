@@ -55,16 +55,21 @@
 
 - Phaser.IO
   - http://phaser.io/
+  - https://phaser.io/examples
 - PIXI.js
   - http://pixijs.com/
+  - https://pixijs.github.io/examples/
 - Babylon.js
   - http://www.babylonjs.com/
 - Panda.js
   - http://www.pandajs.net/
+  - http://www.pandajs.net/demos/
 - Melon.js
   - http://www.melonjs.org/
+  - https://melonjs.github.io/melonJS/
 - Kiwi.js
   - http://www.kiwijs.org/
+  - http://www.kiwijs.org/examples/
 
 ## Networking Basics
 
