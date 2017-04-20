@@ -7,6 +7,7 @@
 - [Basic Concepts](#basic-concepts)
 - [HTML5 Game Engines / Frameworks](#html5-game-engines--frameworks)
 - [Physics Engines](#physics-engines)
+- [Audio Plugins](#audio-plugins)
 - Networking
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
@@ -82,6 +83,15 @@
   - http://kripken.github.io/box2d.js/demo/webgl/box2d.html
 - SAT.js
   - https://github.com/jriecken/sat-js
+
+# Audio Plugins
+
+- Howler.js
+  - https://github.com/goldfire/howler.js/
+  - https://howlerjs.com/
+- Pixi-sound.js
+  - https://github.com/pixijs/pixi-sound
+  - https://pixijs.github.io/pixi-sound/examples/index.html
 
 ## Networking Basics
 
