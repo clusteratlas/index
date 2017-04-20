@@ -1,6 +1,6 @@
-# An open index for HTML5 indie game developers.
+# An open list of everything nice, curated for HTML Indie Game Developers.
 
-- Always open for PR's for contributions :)
+> Always open for PR's for contributions :)
 
 ## Table Of Contents
 
