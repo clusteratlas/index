@@ -72,6 +72,9 @@
 - Kiwi.js
   - http://www.kiwijs.org/
   - http://www.kiwijs.org/examples/
+- Playground.js
+  - http://playgroundjs.com/
+  - https://github.com/rezoner/playground
 
 ## Physics Engines
 
