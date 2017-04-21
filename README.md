@@ -255,6 +255,8 @@ TrueValhalla:
 
 ## Queued / To Be Categorized
 
+- Localization http://i18next.com/
+
 - https://nodejs.org/api/
 - https://github.com/mscdex/ssh2
 - https://www.npmjs.com/package/node-forge
