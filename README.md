@@ -119,11 +119,14 @@
   - https://github.com/pixijs/pixi-sound
   - https://pixijs.github.io/pixi-sound/examples/index.html
   
-## Other Related Plugins
+## Performance Monitoring
 
 - Stats.js
   - JavaScript Performance Monitor
   - https://github.com/mrdoob/stats.js
+  
+## Input Capture
+
 - Keypress.js
   - A robust Javascript library for capturing keyboard input
   - A keyboard input capturing utility in which any key can be a modifier key. 
@@ -133,6 +136,9 @@
   - A javascript library for multi-touch gestures
   - http://hammerjs.github.io/
   - https://github.com/hammerjs/hammer.js
+  
+## Date & Time Parsing
+
 - Moment.js
   - Parse, validate, manipulate, and display dates and times in JavaScript.
   - http://momentjs.com
