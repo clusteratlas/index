@@ -308,6 +308,27 @@ TrueValhalla:
     - http://www.sonniss.com/gameaudiogdc2017/
     - http://www.youtube.com/c/ourmusicbox
     
+- [Free Music, Sound Effects and Images for Your Projects by Eric Matyas.](http://www.html5gamedevs.com/topic/27581-building-a-library-of-images-for-everyone/)
+
+```
+Hi everyone,
+
+I've been building a library of images that you are welcome to use in your projects. 
+They are all original...all my own work. I think a lot of them could be made into 
+cool textures for games.  All I ask is to be attributed as indicated on my homepage:
+
+http://soundimage.org/
+
+The images are on my "TXR" pages.  
+
+I'm adding new ones all the time, so be sure to check back often. I sincerely hope that some of them 
+are useful. Any and all constructive feedback is welcome and always appreciated.  :-)
+
+All the best,
+
+Eric
+```
+
 - [1000 Free Instrumental Game Background Music Tracks](https://www.reddit.com/r/gamedev/comments/66v29j/my_1000_free_instrumental_background_music_tracks/)
 
 ```
