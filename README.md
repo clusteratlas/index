@@ -310,29 +310,23 @@ TrueValhalla:
     
 - [1000 Free Instrumental Game Background Music Tracks](https://www.reddit.com/r/gamedev/comments/66v29j/my_1000_free_instrumental_background_music_tracks/)
 
-
-> Torrent (thanks to Aizome) :
-
-> https://drive.google.com/open?id=0B3re2AF_gdUhVHlFUDZhQnN4MFU
-
-> Soundclick:
-
-> http://www.soundclick.com/_mobileFrame.cfm?bandID=1277008
-
-> My blog where I release the songs and FLstudio project files for them:
-
-> http://anttismusic.blogspot.fi
-
+```
+Torrent (thanks to Aizome) :
+https://drive.google.com/open?id=0B3re2AF_gdUhVHlFUDZhQnN4MFU
+Soundclick:
+http://www.soundclick.com/_mobileFrame.cfm?bandID=1277008
+My blog where I release the songs and FLstudio project files for them:
+http://anttismusic.blogspot.fi
+```
 
 - [500 Male & Female Dialog Pack Audio Files](https://www.reddit.com/r/gamedev/comments/66wzgs/i_just_published_a_free_dialogue_pack_with_over/)
 
-> [Super Dialogue Audio Pack](https://stuckeast.itch.io/sdap) contains more than 500 audio files of dialogue recorded specifically for video games. The pack includes both male and female voices from 5 different voice actors, and all of the files can be used for commercial purposes (royalty free).
-
-> The pack is available for free at https://stuckeast.itch.io/sdap and a short sample can be [heard here](https://soundcloud.com/dillonbecker-1/sdap) (or at the itch.io link).
-
-> [Link to full list of lines](https://drive.google.com/file/d/0Byy6MF-H-jRBRzV1X19kbTJKYzA/view) and [link to the license](https://drive.google.com/file/d/0Byy6MF-H-jRBa095SEZ6ODV6Ykk/view).
-
-> Enjoy!
+```
+[Super Dialogue Audio Pack](https://stuckeast.itch.io/sdap) contains more than 500 audio files of dialogue recorded specifically for video games. The pack includes both male and female voices from 5 different voice actors, and all of the files can be used for commercial purposes (royalty free).
+The pack is available for free at https://stuckeast.itch.io/sdap and a short sample can be [heard here](https://soundcloud.com/dillonbecker-1/sdap) (or at the itch.io link).
+[Link to full list of lines](https://drive.google.com/file/d/0Byy6MF-H-jRBRzV1X19kbTJKYzA/view) and [link to the license](https://drive.google.com/file/d/0Byy6MF-H-jRBa095SEZ6ODV6Ykk/view).
+Enjoy!
+```
 
 ---
 
