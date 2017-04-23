@@ -325,7 +325,8 @@ http://anttismusic.blogspot.fi
 [Super Dialogue Audio Pack](https://stuckeast.itch.io/sdap) contains more than 500 audio files of dialogue 
 recorded specifically for video games. The pack includes both male and female voices from 5 different voice 
 actors, and all of the files can be used for commercial purposes (royalty free).
-The pack is available for free at https://stuckeast.itch.io/sdap and a short sample can be [heard here](https://soundcloud.com/dillonbecker-1/sdap) (or at the itch.io link).
+The pack is available for free at https://stuckeast.itch.io/sdap and a short sample 
+can be [heard here](https://soundcloud.com/dillonbecker-1/sdap) (or at the itch.io link).
 [Link to full list of lines](https://drive.google.com/file/d/0Byy6MF-H-jRBRzV1X19kbTJKYzA/view) 
 and [link to the license](https://drive.google.com/file/d/0Byy6MF-H-jRBa095SEZ6ODV6Ykk/view).
 Enjoy!
