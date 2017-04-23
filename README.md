@@ -19,7 +19,7 @@
     - UWS, Engine.io, etc.
   - [Other Libraries](#other-libraries)
 - [Learning Javascript](#learning-javascript)
-- [Recommended Reads](#recommended-reads)
+- [Interesting Reads](#interesting-reads)
 - [Publishing Games](#publishing-games)
 - [Monetizing Games](#monetizing-games)
 - [Licensing Games](#licensing-games)
@@ -216,9 +216,10 @@ Things that matter:
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
 
-## Recommended Reads
+## Interesting Reads
 
-- https://www.reddit.com/r/gamedev/comments/66bwxe/7_of_my_worst_gamekilling_assumptions_and_what/
+- [7 Of My Worst Game-Killing Assumptions, And What They Taught Me](https://www.reddit.com/r/gamedev/comments/66bwxe/7_of_my_worst_gamekilling_assumptions_and_what/)
+- [XBOX One HTML5 Game Dev](http://www.html5gamedevs.com/topic/29953-xbox-one-html5-game-dev/)
 
 ## Publishing Games
 
