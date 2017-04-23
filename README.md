@@ -8,7 +8,10 @@
 - [HTML5 Game Engines / Frameworks](#html5-game-engines--frameworks)
 - [Physics Engines](#physics-engines)
 - [Audio Plugins](#audio-plugins)
-- Networking
+- [Performance Monitoring](#performance-monitoring)
+- [Input Capture](#input-capture)
+- [Date & Time Parsing](#date--time-parsing)
+- [Game Networking](#game-networking)
   - [Networking Basics](#networking-basics)
   - [Networking Libraries](#networking-libraries)
     - [Socket.IO](#socketio)
@@ -146,6 +149,7 @@
   - Parse and display dates in any timezone.
   - http://momentjs.com/timezone/
   
+## Game Networking
 
 ## Networking Basics
 
