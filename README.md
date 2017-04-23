@@ -53,7 +53,7 @@
 - CDN (Cloud Delivery Networks)
   - https://developer.mozilla.org/en-US/docs/Glossary/CDN
 
-## HTML5 Game Engines / Frameworks
+## HTML5 Game Engines / Frameworks / Renderers
 
 - Phaser.IO
   - http://phaser.io/
@@ -61,6 +61,10 @@
 - PIXI.js
   - http://pixijs.com/
   - https://pixijs.github.io/examples/
+- Three.js
+  - A JavaScript 3D Library which makes WebGL simpler.
+  - https://threejs.org/
+  - https://github.com/mrdoob/three.js/
 - Babylon.js
   - http://www.babylonjs.com/
 - Panda.js
@@ -79,15 +83,34 @@
 ## Physics Engines
 
 - Matter.js
+  - A 2D rigid body physics engine for the web
   - http://brm.io/matter-js/
   - http://brm.io/matter-js/demo/
 - Box2d.js
+  - Port of Box2D to JavaScript using Emscripten
   - https://github.com/kripken/box2d.js/
   - http://kripken.github.io/box2d.js/demo/webgl/box2d.html
+- Ammo.js
+  - Direct port of the Bullet physics engine to JavaScript using Emscripten
+  - https://github.com/kripken/ammo.js
+- Physics.js
+  - A modular, extendable, and easy-to-use physics engine for javascript.
+  - wellcaffeinated.net/PhysicsJS/
+  - https://github.com/wellcaffeinated/PhysicsJS
+- Cannon.js
+  - A lightweight 3D physics engine written in JavaScript. 
+  - http://www.cannonjs.org/
+  - https://github.com/schteppe/cannon.js
+- P2.js
+  - JavaScript 2D physics library
+  - https://schteppe.github.io/p2.js/
+  - https://github.com/schteppe/p2.js
 - SAT.js
+  - A simple JavaScript library for performing 2D collision detection
+  - http://jriecken.github.io/sat-js/
   - https://github.com/jriecken/sat-js
 
-# Audio Plugins
+## Audio Plugins
 
 - Howler.js
   - https://github.com/goldfire/howler.js/
@@ -95,6 +118,28 @@
 - Pixi-sound.js
   - https://github.com/pixijs/pixi-sound
   - https://pixijs.github.io/pixi-sound/examples/index.html
+  
+## Other Related Plugins
+
+- Stats.js
+  - JavaScript Performance Monitor
+  - https://github.com/mrdoob/stats.js
+- Keypress.js
+  - A robust Javascript library for capturing keyboard input
+  - A keyboard input capturing utility in which any key can be a modifier key. 
+  - http://dmauro.github.io/Keypress/
+  - https://github.com/dmauro/Keypress
+- Hammer.js
+  - A javascript library for multi-touch gestures
+  - http://hammerjs.github.io/
+  - https://github.com/hammerjs/hammer.js
+- Moment.js
+  - Parse, validate, manipulate, and display dates and times in JavaScript.
+  - http://momentjs.com
+- MomentTimezone.js
+  - Parse and display dates in any timezone.
+  - http://momentjs.com/timezone/
+  
 
 ## Networking Basics
 
