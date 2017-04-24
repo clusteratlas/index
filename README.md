@@ -5,7 +5,7 @@
 ## Table Of Contents
 
 - [Basic Concepts](#basic-concepts)
-- [HTML5 Game Engines / Frameworks](#html5-game-engines--frameworks--renderers)
+- [HTML5 Game Engines / Frameworks / Renderers](#html5-game-engines--frameworks--renderers)
 - [Physics Engines](#physics-engines)
 - [Audio Plugins](#audio-plugins)
 - [Performance Monitoring](#performance-monitoring)
