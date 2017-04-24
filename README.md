@@ -55,6 +55,12 @@
   - https://en.wikipedia.org/wiki/Web_hosting_service
 - CDN (Cloud Delivery Networks)
   - https://developer.mozilla.org/en-US/docs/Glossary/CDN
+- Gameplay, Game Design, Balancing, etc.
+  - https://en.wikipedia.org/wiki/Game_design
+  - https://en.wikipedia.org/wiki/Gameplay
+  - https://en.wikipedia.org/wiki/Game_mechanics
+  - https://en.wikipedia.org/wiki/Balance_(game_design)
+  - https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
 ## HTML5 Game Engines / Frameworks / Renderers
 
