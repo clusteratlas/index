@@ -59,32 +59,77 @@
 ## HTML5 Game Engines / Frameworks / Renderers
 
 - Phaser.IO
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 
   - http://phaser.io/
   - https://phaser.io/examples
+  - https://github.com/photonstorm/phaser
 - PIXI.js
+  - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
   - http://pixijs.com/
   - https://pixijs.github.io/examples/
+  - https://github.com/pixijs/pixi.js
 - Three.js
   - A JavaScript 3D Library which makes WebGL simpler.
   - https://threejs.org/
   - https://github.com/mrdoob/three.js/
+- WhiteStorm.js
+  - Super-fast 3D framework for Web Applications & Games. Based on Three.js
+  - https://github.com/WhitestormJS/whitestorm.js
+  - https://whs-dev.surge.sh/examples/
 - Babylon.js
+  - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL 
   - http://www.babylonjs.com/
+  - https://github.com/BabylonJS/Babylon.js
 - Panda.js
+  - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
   - http://www.pandajs.net/
   - http://www.pandajs.net/demos/
+  - https://github.com/ekelokorpi/panda-engine
 - Melon.js
+  - A fresh & lightweight javascript game engine 
   - http://www.melonjs.org/
   - https://melonjs.github.io/melonJS/
 - Kiwi.js
+  - Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
   - http://www.kiwijs.org/
   - http://www.kiwijs.org/examples/
 - Playground.js
+  - Playground.js is a framework for your javascript based games. It gives you out-of-box access to essentials like mouse, keyboard, sound and well designed architecture that you can expand to your needs.
   - http://playgroundjs.com/
   - https://github.com/rezoner/playground
+- Stage.js
+  - 2D JavaScript library for cross-platform HTML5 game development 
+  - http://piqnt.com/stage.js/
+  - https://github.com/shakiba/stage.js
+- Cocos2d-x
+  - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+  - http://www.cocos2d-x.org/
+  - https://github.com/cocos2d/cocos2d-x
+- PlayCanvas
+  - https://playcanvas.com/
+  - https://playcanvas.com/explore
+  - https://github.com/playcanvas/engine
+- Atomic Game Engine
+  - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C#, JavaScript, TypeScript, and C++. It deploys natively to Windows, OSX, Android, iOS, and HTML5.
+  - https://atomicgameengine.com/
+  - https://github.com/AtomicGameEngine/AtomicGameEngine/
+- Crafty.js
+  - Crafty is a JavaScript game library that can help you create games in a structured way.
+  - http://craftyjs.com/
+  - https://github.com/craftyjs/Crafty
+- Goo.js
+  - Goo Engine is an open-source 3D engine using HTML5 and WebGL for rendering.
+  - https://github.com/GooTechnologies/goojs
+  - https://learn.goocreate.com/
+
+
 
 ## Physics Engines
 
+- Planck.js
+  - Planck.js is JavaScript rewrite of Box2D physics engine for cross-platform HTML5 game development.
+  - http://piqnt.com/planck.js/
+  - https://github.com/shakiba/planck.js
 - Matter.js
   - A 2D rigid body physics engine for the web
   - http://brm.io/matter-js/
@@ -116,9 +161,11 @@
 ## Audio Plugins
 
 - Howler.js
+  - Javascript audio library for the modern web.
   - https://github.com/goldfire/howler.js/
   - https://howlerjs.com/
 - Pixi-sound.js
+  - WebAudio API playback without any Flash shims or HTML Audio fallback 
   - https://github.com/pixijs/pixi-sound
   - https://pixijs.github.io/pixi-sound/examples/index.html
   
