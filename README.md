@@ -62,6 +62,8 @@
   - https://en.wikipedia.org/wiki/Balance_(game_design)
   - https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
+---
+
 ## HTML5 Game Engines / Frameworks / Renderers
 
 - Phaser.IO
@@ -128,7 +130,7 @@
   - https://github.com/GooTechnologies/goojs
   - https://learn.goocreate.com/
 
-
+---
 
 ## Physics Engines
 
@@ -164,6 +166,8 @@
   - http://jriecken.github.io/sat-js/
   - https://github.com/jriecken/sat-js
 
+---
+
 ## Audio Plugins
 
 - Howler.js
@@ -174,13 +178,17 @@
   - WebAudio API playback without any Flash shims or HTML Audio fallback 
   - https://github.com/pixijs/pixi-sound
   - https://pixijs.github.io/pixi-sound/examples/index.html
-  
+
+---
+
 ## Performance Monitoring
 
 - Stats.js
   - JavaScript Performance Monitor
   - https://github.com/mrdoob/stats.js
-  
+
+---
+
 ## Input Capture
 
 - Keypress.js
@@ -192,6 +200,8 @@
   - A javascript library for multi-touch gestures
   - http://hammerjs.github.io/
   - https://github.com/hammerjs/hammer.js
+
+---
   
 ## Date & Time Parsing
 
@@ -201,7 +211,9 @@
 - MomentTimezone.js
   - Parse and display dates in any timezone.
   - http://momentjs.com/timezone/
-  
+
+---
+
 ## Game Networking
 
 ## Networking Basics
