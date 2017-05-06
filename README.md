@@ -129,6 +129,27 @@
   - Goo Engine is an open-source 3D engine using HTML5 and WebGL for rendering.
   - https://github.com/GooTechnologies/goojs
   - https://learn.goocreate.com/
+- Create.js
+  - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+  - http://createjs.com/
+  - http://createjs.com/#demos
+  - https://github.com/CreateJS
+  - Easel.js
+    - A JavaScript library that makes working with the HTML5 Canvas element easy. The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
+    - http://createjs.com/easeljs
+    - https://github.com/CreateJS/EaselJS
+  - Tween.js
+    - A JavaScript library for tweening and animating HTML5 and JavaScript properties. A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.
+    - http://createjs.com/tweenjs
+    - https://github.com/CreateJS/TweenJS
+  - Sound.js
+    - A JavaScript library that lets you easily and efficiently work with audio on the web. A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.
+    - http://createjs.com/soundjs
+    - https://github.com/CreateJS/SoundJS
+  - Preload.js
+    - A JavaScript library that lets you manage and co-ordinate the loading of assets. PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.
+    - http://createjs.com/preloadjs
+    - https://github.com/CreateJS/PreloadJS
 
 ---
 
