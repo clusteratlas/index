@@ -18,7 +18,6 @@
     - [Faye & Faye-Websocket](#faye--faye-websocket)
     - UWS, Engine.io, etc.
   - [Other Libraries](#other-libraries)
-- [Maps](#maps)
 - [Learning Javascript](#learning-javascript)
 - [Interesting Reads](#interesting-reads)
 - [Publishing Games](#publishing-games)
@@ -26,6 +25,7 @@
 - [Licensing Games](#licensing-games)
 - [Recommended Blogs](#recommended-blogs)
 - [Recommended Subreddits](#recommended-subreddits)
+- [JS Power Tools](#js-power-tools)
 - [Developer Tools](#developer-tools)
 - [Developer Freebies!](#developer-freebies)
 ---
@@ -295,20 +295,6 @@ Things that matter:
 
 ---
 
-## Maps
-
-- Google Maps
-  - https://developers.google.com/maps/
-  - https://github.com/googlemaps/
-- Leaflet.js
-  - An open-source JavaScript library for mobile-friendly interactive maps.
-  - http://leafletjs.com/
-  - https://github.com/Leaflet/Leaflet
-- OpenLayers
-  - A high-performance, feature-packed library for all your mapping needs.
-  - https://openlayers.org/
-  - https://github.com/openlayers/openlayers
-
 ## Learning Javascript
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -317,10 +303,14 @@ Things that matter:
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
 
+---
+
 ## Interesting Reads
 
 - [7 Of My Worst Game-Killing Assumptions, And What They Taught Me](https://www.reddit.com/r/gamedev/comments/66bwxe/7_of_my_worst_gamekilling_assumptions_and_what/)
 - [XBOX One HTML5 Game Dev](http://www.html5gamedevs.com/topic/29953-xbox-one-html5-game-dev/)
+
+---
 
 ## Publishing Games
 
@@ -328,6 +318,8 @@ Things that matter:
 - https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_distribution
 - https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_promotion
 - https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_monetization
+
+---
 
 ## Monetizing Games
 
@@ -347,10 +339,14 @@ TrueValhalla:
 
 >HTML5 games are currently worth a lot of money - keep it that way by maintaining high prices for quality content. Sometimes it is worth throwing away a sale in order to protect future business. I could sell my games for $150-$300 per non-exclusive license to some publishers, but for the sake of maintaining the value of HTML5 games I do not. Only accept a fair price, and do not settle for less than what your content is worth.
 
+---
+
 ## Recommended Blogs
 
 - http://gdu.io/blog/
 - https://www.truevalhalla.com/blog/
+
+---
 
 ## Recommended Subreddits
 
@@ -363,7 +359,128 @@ TrueValhalla:
 - https://www.reddit.com/r/iogames/
 - https://www.reddit.com/r/IndieDev/
 - https://www.reddit.com/r/IndieGaming/
-    
+   
+---
+
+## JS Power Tools
+
+- Q.js
+  - A promise library for JavaScript.
+  - http://documentup.com/kriskowal/q/
+  - https://github.com/kriskowal/q
+- Q-io.js
+  - Interfaces for IO using Q promises in JavaScript on Node.
+  - http://documentup.com/kriskowal/q-io
+  - https://github.com/kriskowal/q-io
+- Bluebird.js
+  - Bluebird is a full featured promise library with unmatched performance.
+  - http://bluebirdjs.com/docs/getting-started.html
+  - http://bluebirdjs.com/docs/api-reference.html
+  - https://github.com/petkaantonov/bluebird
+- ASAP.js
+  - High-priority task queue for Node.js and browsers
+  - https://github.com/kriskowal/asap
+- Async.js
+  - Async utilities for node and the browser.
+  - http://caolan.github.io/async/
+  - https://github.com/caolan/async
+
+
+- i18next
+  - i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js).
+  - http://i18next.com/
+  - https://github.com/i18next/i18next
+
+
+- EJSON
+  - EJSON - Extended JSON from Meteor available for Node.js and the front-end in one handy neat package.
+  - http://docs.meteor.com/api/ejson.html
+  - https://github.com/primus/ejson
+- MsgPack
+  - It's like JSON, but fast and small.
+  - http://msgpack.org/index.html
+  - https://github.com/mcollina/msgpack5
+
+
+- Underscore
+  - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+  - http://underscorejs.org/
+  - https://github.com/jashkenas/underscore
+- Lodash
+  - A modern JavaScript utility library delivering modularity, performance & extras.
+  - https://lodash.com/
+  - https://lodash.com/docs/
+  - https://github.com/lodash/lodash
+- Highland
+  - The high-level streams library for Node.js and the browser.
+  - http://highlandjs.org/
+  - https://github.com/caolan/highland
+
+
+- EventEmitter3
+  - Because there's also a number 2. And we're faster.
+  - https://github.com/primus/eventemitter3
+
+
+- UUID-Random
+  - Fastest UUID with good RNG for JS
+  - https://github.com/jchook/uuid-random
+  - https://www.npmjs.com/package/uuid-random
+- Random.js
+  - This is designed to be a mathematically correct random number generator library for JavaScript. Inspiration was primarily taken from C++11's <random>.
+  - https://www.npmjs.com/package/random-js
+  - https://github.com/ckknight/random-js
+- ChanceJS
+  - Random generator helper for JavaScript
+  - http://chancejs.com/
+  - https://www.npmjs.com/package/chance
+  - https://github.com/chancejs/chancejs
+- FakerJS
+  - Generate massive amounts of fake data in Node.js and the browser
+  - https://www.npmjs.com/package/Faker
+  - https://github.com/marak/Faker.js/
+
+
+- Google Maps
+  - https://developers.google.com/maps/
+  - https://github.com/googlemaps/
+- Leaflet.js
+  - An open-source JavaScript library for mobile-friendly interactive maps.
+  - http://leafletjs.com/
+  - https://github.com/Leaflet/Leaflet
+- OpenLayers
+  - A high-performance, feature-packed library for all your mapping needs.
+  - https://openlayers.org/
+  - https://github.com/openlayers/openlayers
+  
+- VexJS
+  - Beautiful, functional dialogs in vanilla JavaScript
+  - http://github.hubspot.com/vex/
+  - https://github.com/hubspot/vex
+
+
+- ExpressJS
+  - Fast, unopinionated, minimalist web framework for Node.js
+  - https://expressjs.com/
+- Koa
+  - Next generation web framework for Node.js
+  - http://koajs.com/
+- Hapi
+  - A rich framework for building applications and services
+  - https://hapijs.com/
+
+
+- Gulp
+  - The streaming build system; Automate and enhance your workflow.
+  - http://gulpjs.com/
+  - https://github.com/gulpjs/gulp
+- Grunt
+  - The JavaScript Task Runner
+  - https://gruntjs.com/
+  - https://github.com/gruntjs/grunt
+
+---
+   
 ## Developer Tools
 
 - Spritesheet Packers
@@ -388,6 +505,8 @@ TrueValhalla:
   - https://winscp.net/eng/download.php
 - SSH
   - http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+---
 
 ## Developer Freebies
 
@@ -459,7 +578,7 @@ Enjoy!
 ## Queued / To Be Categorized
 
 - Localization http://i18next.com/
-
+http://vitess.io/overview/
 - https://nodejs.org/api/
 - https://github.com/mscdex/ssh2
 - https://www.npmjs.com/package/node-forge
