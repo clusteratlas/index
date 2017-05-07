@@ -18,6 +18,7 @@
     - [Faye & Faye-Websocket](#faye--faye-websocket)
     - UWS, Engine.io, etc.
   - [Other Libraries](#other-libraries)
+- [Maps](#maps)
 - [Learning Javascript](#learning-javascript)
 - [Interesting Reads](#interesting-reads)
 - [Publishing Games](#publishing-games)
@@ -293,6 +294,17 @@ Things that matter:
 [![npm](https://img.shields.io/badge/npm-faye--websocket-red.svg?style=flat-square)](https://www.npmjs.com/package/faye-websocket)
 
 ---
+
+## Maps
+
+- Leaflet.js
+  - An open-source JavaScript library for mobile-friendly interactive maps.
+  - http://leafletjs.com/
+  - https://github.com/Leaflet/Leaflet
+- OpenLayers
+  - A high-performance, feature-packed library for all your mapping needs.
+  - https://openlayers.org/
+  - https://github.com/openlayers/openlayers
 
 ## Learning Javascript
 
