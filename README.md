@@ -361,6 +361,7 @@ TrueValhalla:
 - https://www.reddit.com/r/IndieGaming/
    
 ---
+---
 
 ## JS Power Tools
 
@@ -385,6 +386,7 @@ TrueValhalla:
   - http://caolan.github.io/async/
   - https://github.com/caolan/async
 
+---
 
 - i18next
   - i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js).
@@ -401,6 +403,7 @@ TrueValhalla:
   - http://msgpack.org/index.html
   - https://github.com/mcollina/msgpack5
 
+---
 
 - Underscore
   - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
@@ -416,11 +419,13 @@ TrueValhalla:
   - http://highlandjs.org/
   - https://github.com/caolan/highland
 
+---
 
 - EventEmitter3
   - Because there's also a number 2. And we're faster.
   - https://github.com/primus/eventemitter3
 
+---
 
 - UUID-Random
   - Fastest UUID with good RNG for JS
@@ -440,6 +445,7 @@ TrueValhalla:
   - https://www.npmjs.com/package/Faker
   - https://github.com/marak/Faker.js/
 
+---
 
 - Google Maps
   - https://developers.google.com/maps/
@@ -452,12 +458,15 @@ TrueValhalla:
   - A high-performance, feature-packed library for all your mapping needs.
   - https://openlayers.org/
   - https://github.com/openlayers/openlayers
-  
+
+---
+
 - VexJS
   - Beautiful, functional dialogs in vanilla JavaScript
   - http://github.hubspot.com/vex/
   - https://github.com/hubspot/vex
 
+---
 
 - ExpressJS
   - Fast, unopinionated, minimalist web framework for Node.js
@@ -469,6 +478,7 @@ TrueValhalla:
   - A rich framework for building applications and services
   - https://hapijs.com/
 
+---
 
 - Gulp
   - The streaming build system; Automate and enhance your workflow.
@@ -479,6 +489,7 @@ TrueValhalla:
   - https://gruntjs.com/
   - https://github.com/gruntjs/grunt
 
+---
 ---
    
 ## Developer Tools
