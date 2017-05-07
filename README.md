@@ -496,6 +496,7 @@ TrueValhalla:
 
 - Spritesheet Packers
   - https://github.com/amakaseev/sprite-sheet-packer/releases
+  - http://renderhjs.net/shoebox/
   - https://www.codeandweb.com/texturepacker
 - Editors
   - https://notepad-plus-plus.org/download/
