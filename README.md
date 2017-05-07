@@ -297,6 +297,9 @@ Things that matter:
 
 ## Maps
 
+- Google Maps
+  - https://developers.google.com/maps/
+  - https://github.com/googlemaps/
 - Leaflet.js
   - An open-source JavaScript library for mobile-friendly interactive maps.
   - http://leafletjs.com/
