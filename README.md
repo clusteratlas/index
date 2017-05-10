@@ -151,6 +151,11 @@
     - A JavaScript library that lets you manage and co-ordinate the loading of assets. PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.
     - http://createjs.com/preloadjs
     - https://github.com/CreateJS/PreloadJS
+- p5.js
+  - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
+  - https://p5js.org/
+  - https://p5js.org/examples/
+  - https://github.com/processing/p5.js
 
 ---
 
