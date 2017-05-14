@@ -664,3 +664,89 @@ Free SSL:
 > http://blog.vullum.io/javascript-flow-callback-hell-vs-async-vs-highland/
 
 - https://github.com/winstonjs/winston
+
+
+---
+
+to be added: 5/14/2017
+
+index updates
+
+	- materialize
+	- bootstrap
+	- interact js
+	- jquery ui
+	- jquery mobile
+	- evil icons
+		- https://github.com/evil-icons/evil-icons
+	- font awesome
+		- http://fontawesome.io/get-started/
+	- fatcow icons
+		- http://www.fatcow.com/free-icons
+	- https://material.io/icons/
+	- https://thenounproject.com/
+	- sweetalerts
+	- https://scrollrevealjs.org/
+		- https://github.com/jlmakes/scrollreveal
+	- https://bitshadow.github.io/iconate/
+	- http://glyphicons.bootstrapcheatsheets.com/
+	- http://lostgrid.org/
+	
+	- http://www.chartjs.org/
+	- https://github.com/pa7/heatmap.js
+	
+	- knockout
+	- vuejs
+	- react
+	- angular2
+	- meteorjs
+	- marionette js https://github.com/marionettejs/backbone.marionette
+	- ember js
+	
+	- https://github.com/hakimel/reveal.js
+	
+	- build tools
+		- chokidar
+		- gulp
+	
+	- inline w/ lodash / underscore / highland
+		- http://ramdajs.com/docs/
+		
+	- inline w/ renderers
+		- http://mojs.io/
+		- https://github.com/legomushroom/mojs
+		- http://paperjs.org/
+		- http://maxwellito.github.io/vivus/
+		- https://github.com/maxwellito/vivus
+		- http://stack.gl/#community
+		
+	- inline w/ loaders
+		- basketjs
+		- stimulated
+		- requirejs
+		
+	- promises
+		- q
+		- asynquence
+		- bluebird
+		- async
+		
+	- time
+		- momentjs
+		- moment timezone
+		
+	- feature checking
+		- modernizr
+	
+	- build flows
+		- browserify
+		- babel (to es2015) -> browserify / uglifyJS
+		- pixify
+		- using gulp / grunt to orchestrate tasks
+		
+	- linting & unit testing
+		- xo & ava
+		
+		
+	- is it maintained format
+	- https://github.com/almende/vis
