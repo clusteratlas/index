@@ -213,6 +213,10 @@
 - Stats.js
   - JavaScript Performance Monitor
   - https://github.com/mrdoob/stats.js
+- FPSMeter.js
+  - Sexy, fast, and themable FPS meter.
+  - https://github.com/darsain/fpsmeter
+  - http://darsa.in/fpsmeter/
 
 ---
 
@@ -398,6 +402,7 @@ TrueValhalla:
   - http://i18next.com/
   - https://github.com/i18next/i18next
 
+---
 
 - EJSON
   - EJSON - Extended JSON from Meteor available for Node.js and the front-end in one handy neat package.
@@ -419,6 +424,11 @@ TrueValhalla:
   - https://lodash.com/
   - https://lodash.com/docs/
   - https://github.com/lodash/lodash
+- Ramda
+  - A practical functional library for JavaScript programmers.
+  - http://ramdajs.com/
+  - http://ramdajs.com/docs/
+  - https://github.com/ramda/ramda
 - Highland
   - The high-level streams library for Node.js and the browser.
   - http://highlandjs.org/
