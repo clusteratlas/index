@@ -680,6 +680,7 @@ Free SSL:
 
 to be added: 5/14/2017
 
+```
 index updates
 
 	- materialize
@@ -760,3 +761,12 @@ index updates
 		
 	- is it maintained format
 	- https://github.com/almende/vis
+```
+
+
+---
+---
+---
+---
+
+## L I B R A R I E S
