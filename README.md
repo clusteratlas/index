@@ -1,3 +1,222 @@
+# Index For HTML5 Game Developers
+
+> *Note: Currently updating!*
+
+## Table Of Contents
+
+---
+
+## HTML5 Game Dev Overview
+
+---
+
+## Learning Javascript
+
+---
+
+## Libraries
+
+### Game Engines, Frameworks & Renderers
+
+- Phaser.IO
+  - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. 
+  - http://phaser.io/
+  - https://phaser.io/examples
+  - https://github.com/photonstorm/phaser
+- PIXI.js
+  - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
+  - http://pixijs.com/
+  - https://pixijs.github.io/examples/
+  - https://github.com/pixijs/pixi.js
+- PIXI-Particles
+  - A particle system for PixiJS.
+  - http://pixijs.github.io/pixi-particles/docs/
+  - https://github.com/pixijs/pixi-particles
+- Three.js
+  - A JavaScript 3D Library which makes WebGL simpler.
+  - https://threejs.org/
+  - https://github.com/mrdoob/three.js/
+- WhiteStorm.js
+  - Super-fast 3D framework for Web Applications & Games. Based on Three.js
+  - https://github.com/WhitestormJS/whitestorm.js
+  - https://whs-dev.surge.sh/examples/
+- Babylon.js
+  - Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL 
+  - http://www.babylonjs.com/
+  - https://github.com/BabylonJS/Babylon.js
+- Panda.js
+  - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
+  - http://www.pandajs.net/
+  - http://www.pandajs.net/demos/
+  - https://github.com/ekelokorpi/panda-engine
+- Melon.js
+  - A fresh & lightweight javascript game engine 
+  - http://www.melonjs.org/
+  - https://melonjs.github.io/melonJS/
+- Kiwi.js
+  - Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
+  - http://www.kiwijs.org/
+  - http://www.kiwijs.org/examples/
+- Playground.js
+  - Playground.js is a framework for your javascript based games. It gives you out-of-box access to essentials like mouse, keyboard, sound and well designed architecture that you can expand to your needs.
+  - http://playgroundjs.com/
+  - https://github.com/rezoner/playground
+- Stage.js
+  - 2D JavaScript library for cross-platform HTML5 game development 
+  - http://piqnt.com/stage.js/
+  - https://github.com/shakiba/stage.js
+- Cocos2d-x
+  - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+  - http://www.cocos2d-x.org/
+  - https://github.com/cocos2d/cocos2d-x
+- PlayCanvas
+  - https://playcanvas.com/
+  - https://playcanvas.com/explore
+  - https://github.com/playcanvas/engine
+- Atomic Game Engine
+  - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C#, JavaScript, TypeScript, and C++. It deploys natively to Windows, OSX, Android, iOS, and HTML5.
+  - https://atomicgameengine.com/
+  - https://github.com/AtomicGameEngine/AtomicGameEngine/
+- Crafty.js
+  - Crafty is a JavaScript game library that can help you create games in a structured way.
+  - http://craftyjs.com/
+  - https://github.com/craftyjs/Crafty
+- Goo.js
+  - Goo Engine is an open-source 3D engine using HTML5 and WebGL for rendering.
+  - https://github.com/GooTechnologies/goojs
+  - https://learn.goocreate.com/
+- Create.js
+  - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+  - http://createjs.com/
+  - http://createjs.com/#demos
+  - https://github.com/CreateJS
+- Easel.js
+  - A JavaScript library that makes working with the HTML5 Canvas element easy. The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
+  - http://createjs.com/easeljs
+  - https://github.com/CreateJS/EaselJS
+- p5.js
+  - p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
+  - https://p5js.org/
+  - https://p5js.org/examples/
+  - https://github.com/processing/p5.js
+
+### Input Capture
+
+- Keypress.js
+  - A robust Javascript library for capturing keyboard input
+  - A keyboard input capturing utility in which any key can be a modifier key. 
+  - http://dmauro.github.io/Keypress/
+  - https://github.com/dmauro/Keypress
+- Hammer.js
+  - A javascript library for multi-touch gestures
+  - http://hammerjs.github.io/
+  - https://github.com/hammerjs/hammer.js
+  
+### Game Networking
+
+- Socket.IO
+- Faye-Websocket
+- UWS
+
+### Game Physics
+
+- Planck.js
+  - Planck.js is JavaScript rewrite of Box2D physics engine for cross-platform HTML5 game development.
+  - http://piqnt.com/planck.js/
+  - https://github.com/shakiba/planck.js
+- Matter.js
+  - A 2D rigid body physics engine for the web
+  - http://brm.io/matter-js/
+  - http://brm.io/matter-js/demo/
+- Box2d.js
+  - Port of Box2D to JavaScript using Emscripten
+  - https://github.com/kripken/box2d.js/
+  - http://kripken.github.io/box2d.js/demo/webgl/box2d.html
+- Ammo.js
+  - Direct port of the Bullet physics engine to JavaScript using Emscripten
+  - https://github.com/kripken/ammo.js
+- Physics.js
+  - A modular, extendable, and easy-to-use physics engine for javascript.
+  - wellcaffeinated.net/PhysicsJS/
+  - https://github.com/wellcaffeinated/PhysicsJS
+- Cannon.js
+  - A lightweight 3D physics engine written in JavaScript. 
+  - http://www.cannonjs.org/
+  - https://github.com/schteppe/cannon.js
+- P2.js
+  - JavaScript 2D physics library
+  - https://schteppe.github.io/p2.js/
+  - https://github.com/schteppe/p2.js
+- SAT.js
+  - A simple JavaScript library for performing 2D collision detection
+  - http://jriecken.github.io/sat-js/
+  - https://github.com/jriecken/sat-js
+
+### Performance Monitoring
+
+- Stats.js
+  - JavaScript Performance Monitor
+  - https://github.com/mrdoob/stats.js
+- FPSMeter.js
+  - Sexy, fast, and themable FPS meter.
+  - https://github.com/darsain/fpsmeter
+  - http://darsa.in/fpsmeter/
+
+### Game Audio
+
+- Howler.js
+  - Javascript audio library for the modern web.
+  - https://github.com/goldfire/howler.js/
+  - https://howlerjs.com/
+- Pixi-sound.js
+  - WebAudio API playback without any Flash shims or HTML Audio fallback 
+  - https://github.com/pixijs/pixi-sound
+  - https://pixijs.github.io/pixi-sound/examples/index.html
+- Sound.js
+  - A JavaScript library that lets you easily and efficiently work with audio on the web.
+  - http://createjs.com/soundjs
+  - https://github.com/CreateJS/SoundJS
+ 
+### Date & Time Parsing
+
+- Moment.js
+  - Parse, validate, manipulate, and display dates and times in JavaScript.
+  - http://momentjs.com
+- MomentTimezone.js
+  - Parse and display dates in any timezone.
+  - http://momentjs.com/timezone/
+
+### Tweening
+
+- Tween.js
+  - A JavaScript library for tweening and animating HTML5 and JavaScript properties. A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.
+  - http://createjs.com/tweenjs
+  - https://github.com/CreateJS/TweenJS
+- Pixi-tween
+  - pixi-tween is a plugin for Pixi.js v3.0.8 or higher to create tween animations.
+  - https://github.com/Nazariglez/pixi-tween/network
+  - https://github.com/themoonrat/pixi-tween
+
+### Asset Pre-loading
+
+- Preload.js
+  - A JavaScript library that lets you manage and co-ordinate the loading of assets. PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.
+  - http://createjs.com/preloadjs
+  - https://github.com/CreateJS/PreloadJS
+- Resource Loader
+  - A middleware-style generic resource loader built with web games in mind.
+  - http://englercj.github.io/resource-loader/
+  - https://github.com/englercj/resource-loader
+
+### Frontend / GUI
+
+
+---
+
+x
+
+---
+
 ## An open list of everything nice, curated for HTML5 Indie Game Developers.
 
 > Always open for PR's for contributions :)
@@ -769,4 +988,6 @@ index updates
 ---
 ---
 
-## L I B R A R I E S
+
+
+## 
