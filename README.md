@@ -115,8 +115,24 @@
 ### Game Networking
 
 - Socket.IO
-- Faye-Websocket
-- UWS
+  - https://socket.io/
+  - https://www.npmjs.com/package/socket.io
+  - https://www.npmjs.com/package/socket.io-client
+  - Server API: https://github.com/socketio/socket.io/blob/master/docs/API.md
+  - Clioent API: https://github.com/socketio/socket.io-client/blob/master/docs/API.md
+- Faye & Faye-Websocket
+  - https://faye.jcoglan.com/
+  - https://github.com/faye/faye
+  - https://github.com/faye/faye-websocket-node
+  - https://www.npmjs.com/package/faye
+  - https://www.npmjs.com/package/faye-websocket
+- µWS
+  - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available.
+  - https://github.com/uWebSockets/uWebSockets
+- ws
+  - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+  - http://websockets.github.io/ws/
+  - https://github.com/websockets/ws
 
 ### Game Physics
 
@@ -208,8 +224,135 @@
   - http://englercj.github.io/resource-loader/
   - https://github.com/englercj/resource-loader
 
+### Randomized Generators
+
+- UUID-Random
+  - Fastest UUID with good RNG for JS
+  - https://github.com/jchook/uuid-random
+  - https://www.npmjs.com/package/uuid-random
+- Random.js
+  - This is designed to be a mathematically correct random number generator library for JavaScript. Inspiration was primarily taken from C++11's <random>.
+  - https://www.npmjs.com/package/random-js
+  - https://github.com/ckknight/random-js
+- ChanceJS
+  - Random generator helper for JavaScript
+  - http://chancejs.com/
+  - https://www.npmjs.com/package/chance
+  - https://github.com/chancejs/chancejs
+- FakerJS
+  - Generate massive amounts of fake data in Node.js and the browser
+  - https://www.npmjs.com/package/Faker
+  - https://github.com/marak/Faker.js/
+  
+### Functional Programming & Utility Libraries
+
+- Underscore
+  - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+  - http://underscorejs.org/
+  - https://github.com/jashkenas/underscore
+- Lodash
+  - A modern JavaScript utility library delivering modularity, performance & extras.
+  - https://lodash.com/
+  - https://lodash.com/docs/
+  - https://github.com/lodash/lodash
+- Ramda
+  - A practical functional library for JavaScript programmers.
+  - http://ramdajs.com/
+  - http://ramdajs.com/docs/
+  - https://github.com/ramda/ramda
+- Highland
+  - The high-level streams library for Node.js and the browser.
+  - http://highlandjs.org/
+  - https://github.com/caolan/highland
+
+### Misc
+
+- Async.js
+  - Async utilities for node and the browser.
+  - http://caolan.github.io/async/
+  - https://github.com/caolan/async
+- EventEmitter3
+  - Because there's also a number 2. And we're faster.
+  - https://github.com/primus/eventemitter3
+- EJSON
+  - EJSON - Extended JSON from Meteor available for Node.js and the front-end in one handy neat package.
+  - http://docs.meteor.com/api/ejson.html
+  - https://github.com/primus/ejson
+- MsgPack
+  - It's like JSON, but fast and small.
+  - http://msgpack.org/index.html
+  - https://github.com/mcollina/msgpack5
+- Q.js
+  - A promise library for JavaScript.
+  - http://documentup.com/kriskowal/q/
+  - https://github.com/kriskowal/q
+- Q-io.js
+  - Interfaces for IO using Q promises in JavaScript on Node.
+  - http://documentup.com/kriskowal/q-io
+  - https://github.com/kriskowal/q-io
+- Bluebird.js
+  - Bluebird is a full featured promise library with unmatched performance.
+  - http://bluebirdjs.com/docs/getting-started.html
+  - http://bluebirdjs.com/docs/api-reference.html
+  - https://github.com/petkaantonov/bluebird
+- ASAP.js
+  - High-priority task queue for Node.js and browsers
+  - https://github.com/kriskowal/asap
+
+### Internationalization
+
+- i18next
+  - i18next is a very popular internationalization library for browser or any other javascript environment (eg. node.js).
+  - http://i18next.com/
+  - https://github.com/i18next/i18next
+  
+### Web Frameworks
+
+- ExpressJS
+  - Fast, unopinionated, minimalist web framework for Node.js
+  - https://expressjs.com/
+- Koa
+  - Next generation web framework for Node.js
+  - http://koajs.com/
+- Hapi
+  - A rich framework for building applications and services
+  - https://hapijs.com/
+
 ### Frontend / GUI
 
+- VexJS
+  - Beautiful, functional dialogs in vanilla JavaScript
+  - http://github.hubspot.com/vex/
+  - https://github.com/hubspot/vex
+- SweetAlerts2
+  - A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+  - https://limonte.github.io/sweetalert2/
+  - https://github.com/limonte/sweetalert2
+
+### Frontend Maps
+
+- Google Maps
+  - https://developers.google.com/maps/
+  - https://github.com/googlemaps/
+- Leaflet.js
+  - An open-source JavaScript library for mobile-friendly interactive maps.
+  - http://leafletjs.com/
+  - https://github.com/Leaflet/Leaflet
+- OpenLayers
+  - A high-performance, feature-packed library for all your mapping needs.
+  - https://openlayers.org/
+  - https://github.com/openlayers/openlayers
+
+### Task Runners & Build Systems
+
+- Gulp
+  - The streaming build system; Automate and enhance your workflow.
+  - http://gulpjs.com/
+  - https://github.com/gulpjs/gulp
+- Grunt
+  - The JavaScript Task Runner
+  - https://gruntjs.com/
+  - https://github.com/gruntjs/grunt
 
 ---
 
